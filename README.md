@@ -1,2 +1,1 @@
-# PAT 乙级
-编程语言: C/C++
+# PAT Basic
